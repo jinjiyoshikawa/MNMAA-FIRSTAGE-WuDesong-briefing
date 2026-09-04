@@ -1,11 +1,18 @@
-# 澳門新媒體藝術協會 · FIRSTAGE · 吳德淞 資料簡報
+# FIRSTAGE · Storage · Karl NG — curator pack
 
-可交付用資料包（繁體中文）。
+English working brief for curators. Public sources only. Compiled 4 September 2026.
 
-## 下載
+## Open / download
 
-- 網頁版（可列印或另存為 PDF）：[index.html](https://htmlpreview.github.io/?https://github.com/jinjiyoshikawa/MNMAA-FIRSTAGE-WuDesong-briefing/blob/main/index.html)
-- 原始檔：[index.html raw](https://raw.githubusercontent.com/jinjiyoshikawa/MNMAA-FIRSTAGE-WuDesong-briefing/main/index.html)
-- 場地相片：[Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Macao_Contemporary_Art_Center_-_Navy_Yard_No.1)
+- **Preview (clickable links):** [curator-pack-en.html](https://htmlpreview.github.io/?https://github.com/jinjiyoshikawa/MNMAA-FIRSTAGE-WuDesong-briefing/blob/main/curator-pack-en.html)
+- **Raw HTML:** [curator-pack-en.html raw](https://raw.githubusercontent.com/jinjiyoshikawa/MNMAA-FIRSTAGE-WuDesong-briefing/main/curator-pack-en.html)
+- **GitHub repo:** [jinjiyoshikawa/MNMAA-FIRSTAGE-WuDesong-briefing](https://github.com/jinjiyoshikawa/MNMAA-FIRSTAGE-WuDesong-briefing)
+- **Venue photos (reusable):** [Wikimedia Commons — Navy Yard No.1](https://commons.wikimedia.org/wiki/Category:Macao_Contemporary_Art_Center_-_Navy_Yard_No.1)
 
-使用方法：用瀏覽器打開 HTML → 列印 → 另存為 PDF。
+To make a PDF: open the preview in a browser → Print → Save as PDF. Links stay clickable in most browsers.
+
+High-res portraits of Karl NG and installation shots of *Storage* 《斷留所》 are not freely licensed online. Request them from **newmediaartmo@gmail.com** or Instagram **@memorisk77**.
+
+## Reusable Grok rebuild prompt
+
+Copy the block in `GROK-REBUILD-PROMPT.md` (or the same text at the end of `curator-pack-en.html`) into a new Grok chat when you need a fresh PDF or an updated pack.
